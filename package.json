@@ -1,6 +1,6 @@
 {
 	"name": "codeblock-cat",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "cat file with markdown code block format.",
 	"license": "MIT",
 	"repository": "elzup/codeblock-cat",
