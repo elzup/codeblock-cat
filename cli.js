@@ -6,10 +6,10 @@ const mdCat = require(".");
 
 const cli = meow(`
 	Usage
-	  $ md-cat [filename]
+	  $ codeblock-cat [filename]
 
 	Examples
-		$ md-cat list.txt
+		$ codeblock-cat list.txt
 		\`\`\`txt titlelist.txt
 		apple
 		banana

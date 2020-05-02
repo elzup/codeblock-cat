@@ -1,9 +1,9 @@
 {
-	"name": "md-cat",
-	"version": "0.0.0",
+	"name": "codeblock-cat",
+	"version": "0.1.0",
 	"description": "cat file with markdown code block format.",
 	"license": "MIT",
-	"repository": "elzup/md-cat",
+	"repository": "elzup/codeblock-cat",
 	"author": {
 		"name": "elzup",
 		"email": "guild0105@gmail.com",

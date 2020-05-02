@@ -1,24 +1,24 @@
-# md-cat [![Build Status](https://travis-ci.com/elzup/md-cat.svg?branch=master)](https://travis-ci.com/elzup/md-cat)
+# codeblock-cat [![Build Status](https://travis-ci.com/elzup/codeblock-cat.svg?branch=master)](https://travis-ci.com/elzup/codeblock-cat)
 
 > cat file with markdown code block format.
 
 ## Install
 
 ```
-$ npm install md-cat
+$ npm install codeblock-cat
 ```
 
 ## CLI
 
 ```
-$ npm install --global md-cat
-$ md-cat [filename]
+$ npm install --global codeblock-cat
+$ codeblock-cat [filename]
 ```
 
 Examples
 
 ```
-$ md-cat list.txt
+$ codeblock-cat list.txt
 \`\`\`txt titlelist.txt
 apple
 banana
