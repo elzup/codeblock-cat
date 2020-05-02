@@ -1,6 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`cat list.txt 1`] = `"\`\`\`txt title=test/list.txt"`;
+exports[`cat list.txt 1`] = `
+"\`\`\`txt title=test/list.txt
+"
+`;
 
 exports[`cat list.txt 2`] = `
 "apple
@@ -9,4 +12,8 @@ cat
 "
 `;
 
-exports[`cat list.txt 3`] = `"\`\`\`"`;
+exports[`cat list.txt 3`] = `
+"
+\`\`\`
+"
+`;
