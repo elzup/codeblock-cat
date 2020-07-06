@@ -1,4 +1,4 @@
-# codeblock-cat [![Build Status](https://travis-ci.com/elzup/codeblock-cat.svg?branch=master)](https://travis-ci.com/elzup/codeblock-cat)
+# codeblock-cat ![Node.js CI](https://github.com/elzup/codeblock-cat/workflows/Node.js%20CI/badge.svg)
 
 > cat file with markdown code block format.
 
@@ -17,10 +17,10 @@ $ codeblock-cat [filename]
 
 Examples
 
-```
+````
 $ codeblock-cat list.txt
-\`\`\`txt titlelist.txt
+```txt titlelist.txt
 apple
 banana
-\`\`\`
 ```
+````
