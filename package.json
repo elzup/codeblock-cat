@@ -27,10 +27,10 @@
 		"markdown"
 	],
 	"dependencies": {
-		"meow": "^5.0.0"
+		"meow": "5.0.0"
 	},
 	"devDependencies": {
-		"jest": "^25.5.4",
-		"sinon": "^9.0.2"
+		"jest": "25.5.4",
+		"sinon": "9.0.2"
 	}
 }
