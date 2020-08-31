@@ -30,7 +30,7 @@
 		"meow": "5.0.0"
 	},
 	"devDependencies": {
-		"jest": "25.5.4",
+		"jest": "26.4.2",
 		"sinon": "9.0.3"
 	}
 }
