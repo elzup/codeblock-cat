@@ -1,6 +1,6 @@
-# codeblock-cat ![Node.js CI](https://github.com/elzup/codeblock-cat/workflows/Node.js%20CI/badge.svg)
+# codeblock-cat
 
-> cat file with markdown code block format.
+> pickup markdown code block format.
 
 ## Install
 
