@@ -11,7 +11,7 @@
 	},
 	"bin": "cli.js",
 	"engines": {
-		"node": ">=10"
+		"node": ">=22"
 	},
 	"scripts": {
 		"test": "jest"
